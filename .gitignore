@@ -1,0 +1,3 @@
+# large raw data and OS files
+*.fif
+.DS_Store

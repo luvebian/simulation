@@ -1,0 +1,5 @@
+metric,method,qx,qy,qz,radial_frac
+LI_roi,MNE,-0.62,0.54,0.07,-0.42
+LI_roi,dSPM,-0.62,0.54,0.08,-0.43
+LI_roi,sLORETA,-0.61,0.53,0.07,-0.42
+old_LIcount,MNE,-0.57,0.45,0.13,-0.19
